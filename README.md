@@ -25,3 +25,4 @@ Otra opción que puede funcionar es:
 ```
 conda install -c conda-forge dlib=19.18 
 ```
+DESCARGAR base de datos [landmark](https://es.osdn.net/projects/sfnet_dclib/downloads/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/)
